@@ -17,6 +17,7 @@ public class AgileAssignment {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.print("HI");
+        System.out.print("New Test");
     }
     
 }
